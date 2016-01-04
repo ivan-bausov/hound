@@ -1,0 +1,7 @@
+{
+  "name": "hound",
+  "version": "0.0.1",
+  "devDependencies": {
+    "q": "latest"
+  }
+}

@@ -1,0 +1,2 @@
+grunt ts-node
+jasmine
