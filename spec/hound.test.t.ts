@@ -2,8 +2,8 @@
 
 import _ = require('underscore');
 import Q = require('q');
-import Hound from '../hound.node.t';
-import {ISurroundings, Direction, Location} from "../hound.node.i";
+import Hound from '../hound.t';
+import {ISurroundings, Direction, Location} from "../hound.i";
 
 interface Element {
     key:string;

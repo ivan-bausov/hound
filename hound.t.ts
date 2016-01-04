@@ -1,7 +1,7 @@
 /// <reference path="./typings/tsd.d.ts" />
 
 import Q = require('q');
-import {Options, Direction, ISurroundings, Location} from "./hound.node.i";
+import {Options, Direction, ISurroundings, Location} from "./hound.i";
 
 export default class Hound {
     constructor(options:Options) {
