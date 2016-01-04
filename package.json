@@ -1,7 +1,22 @@
 {
   "name": "hound",
   "version": "0.0.1",
+  "description": "Key-navigation module for web-app interfaces auto-tests.",
+  "author": "Ivan Bausov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ivan-bausov/hound.git"
+  },
   "devDependencies": {
-    "q": "latest"
+    "jasmine": "^2.2.1",
+    "typescript": "~1.7.0",
+    "underscore": "1.6.0",
+    "q": "latest",
+    "grunt": "latest",
+    "grunt-cli": "latest",
+    "grunt-ts": "~4.1.2",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-clean": "latest"
   }
 }
