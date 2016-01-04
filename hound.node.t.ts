@@ -1,5 +1,4 @@
-/// <reference path="../../../DefinitelyTyped/underscore/underscore.d.ts" />
-/// <reference path="../../../DefinitelyTyped/q/Q.d.ts" />
+/// <reference path="./typings/tsd.d.ts" />
 
 import Q = require('q');
 import {Options, Direction, ISurroundings, Location} from "./hound.node.i";

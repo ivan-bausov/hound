@@ -1,4 +1,4 @@
-/// <reference path="../../../../DefinitelyTyped/jasmine/jasmine.d.ts" />
+/// <reference path="../typings/tsd.d.ts" />
 
 import _ = require('underscore');
 import Q = require('q');

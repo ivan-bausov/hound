@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "underscore/underscore.d.ts": {
+      "commit": "0d66537e353802f996a3f67ca1b711f63835f9e7"
+    },
+    "q/Q.d.ts": {
+      "commit": "0d66537e353802f996a3f67ca1b711f63835f9e7"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "0d66537e353802f996a3f67ca1b711f63835f9e7"
+    }
+  }
+}
